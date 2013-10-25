@@ -5,7 +5,8 @@
 1. Start by drawing 3X3 dots, 9 dots. 
 2. Ask, how do you connect all the dots with 4 straight lines without lifting your pen up?
 3. Solution: 
-    ![Solution](9dots-solution.png)
+
+![Solution](9dots-solution.png)
 
 ## Real Life **3:40 - 3:55**
  Tell the kids to get into groups of __ and form a square. Give each group a long piece of string and tell each group to figure out the best way to connect everyone by using up all the string and by using up most of the interior of the square. The team with the best strategy wins candy! (everyone else gets some in the end) 
